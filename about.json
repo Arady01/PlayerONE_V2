@@ -1,0 +1,32 @@
+{
+  "name": "PlayerONE V2",
+  "component": false,
+  "license_url": "https://playerone.hu/",
+  "about_url": "https://playerone.hu/",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "texture": "assets/texture.jpg"
+  },
+  "color_schemes": {
+    "geometric": {
+      "primary": "ffffff",
+      "secondary": "3f3f3f",
+      "tertiary": "ffffff",
+      "quaternary": "575151",
+      "header_background": "262833",
+      "header_primary": "262833",
+      "highlight": "000000",
+      "selected": "e9e9e9",
+      "hover": "f2f2f2",
+      "danger": "da723c",
+      "success": "009900",
+      "love": "91091e"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
